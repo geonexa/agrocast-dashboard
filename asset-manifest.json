@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/agrocast-dashboard/static/css/main.322edb19.css",
+    "main.js": "/agrocast-dashboard/static/js/main.623af183.js",
+    "static/media/bg-sign-in-basic.jpeg": "/agrocast-dashboard/static/media/bg-sign-in-basic.77eefa91ea0cf193746b.jpeg",
+    "static/media/app_banner.jpg": "/agrocast-dashboard/static/media/app_banner.e47f837d5338591dcd77.jpg",
+    "static/media/logo-trans.png": "/agrocast-dashboard/static/media/logo-trans.b74fb723601d9375dd86.png",
+    "static/media/logo.png": "/agrocast-dashboard/static/media/logo.616725fe4099aec42445.png",
+    "static/media/NDMI_Scale.png": "/agrocast-dashboard/static/media/NDMI_Scale.2590764f97c788e0da41.png",
+    "static/media/NDVI_Scale.png": "/agrocast-dashboard/static/media/NDVI_Scale.15a4c71bb0eff119d0e5.png",
+    "static/media/EVI_Scale.png": "/agrocast-dashboard/static/media/EVI_Scale.a76e5151b7f9e26b43ef.png",
+    "static/media/sunset.svg": "/agrocast-dashboard/static/media/sunset.eb8b1ead2d78e3edd794ad3829426919.svg",
+    "static/media/sunrise.svg": "/agrocast-dashboard/static/media/sunrise.3082410371edbd7f37b217f268a9292a.svg",
+    "static/media/thermometer-full.svg": "/agrocast-dashboard/static/media/thermometer-full.29de7f7e816c128c153d3cb905667a27.svg",
+    "static/media/thermometer-1-2.svg": "/agrocast-dashboard/static/media/thermometer-1-2.e9a9e4fec8669e28078bb8185c144035.svg",
+    "static/media/wind.svg": "/agrocast-dashboard/static/media/wind.45d39e20f9a91034b23183aa01dd6f5b.svg",
+    "static/media/thermometer-0.svg": "/agrocast-dashboard/static/media/thermometer-0.1886a72ab471cc6b0eefc70e3f029b5d.svg",
+    "static/media/user-img.jpg": "/agrocast-dashboard/static/media/user-img.0372250f9bcd202e96ce.jpg",
+    "static/media/visibility.png": "/agrocast-dashboard/static/media/visibility.7c4c4f328fda2438b459.png",
+    "static/media/spritesheet.svg": "/agrocast-dashboard/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "static/media/humidity.svg": "/agrocast-dashboard/static/media/humidity.1b628b0ec753e3df1e33120f61431f25.svg",
+    "index.html": "/agrocast-dashboard/index.html",
+    "main.322edb19.css.map": "/agrocast-dashboard/static/css/main.322edb19.css.map",
+    "main.623af183.js.map": "/agrocast-dashboard/static/js/main.623af183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322edb19.css",
+    "static/js/main.623af183.js"
+  ]
+}
